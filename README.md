@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ococonut7
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning Basic Backend
+- 📫 How to reach me / Discord nor School Email. christian.v1@colegioadventista.ed.cr
